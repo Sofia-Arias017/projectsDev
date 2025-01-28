@@ -1,2 +1,2 @@
-#configuracion inicial del repositorio
+# configuracion inicial del repositorio
 - cambios en el pc
